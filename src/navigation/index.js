@@ -1,15 +1,17 @@
 import * as React from 'react';
-import { NavigationContainer  } from '@react-navigation/native';
+import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 import { createDrawerNavigator } from '@react-navigation/drawer';
-import { Home, SignIn,SignUp, Notifications,ProductDetails,RecommendedProducts,CustomerService,HotSale,FAQ,LegalPolicy,FilterProducts,OrderDetails,ListScreen,Privacy,Wishlist, MyAddress, AddAddress, Profile, ForgotPassword, MyOrders,ListCategories,Filter,MyCart,Checkout,FeaturedProductsList,BestSellerProductsList,NewArrivalProductsList,SellerLogin,SalesTeamLogin } from '@containers'
+import { Home, SignIn, SignUp, Notifications, ProductDetails, RecommendedProducts, CustomerService, HotSale, FAQ, LegalPolicy, FilterProducts, OrderDetails, ListScreen, Privacy, Wishlist, MyAddress, AddAddress, Profile, ForgotPassword, MyOrders, ListCategories, Filter, MyCart, Checkout, FeaturedProductsList, BestSellerProductsList, NewArrivalProductsList, SellerLogin, SalesTeamLogin } from '@containers'
 import { SideBar } from "@components";
 import { UserContext } from '@context/user-context';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { Value } from 'react-native-reanimated';
 import { Constants } from "@themes";
 import Services from "@Services";
-import linking from "../linking";
+import { ActivityIndicator } from "react-native";
+// import linking from "../linking";
+
 const Stack = createStackNavigator();
 const Drawer = createDrawerNavigator();
 
@@ -63,45 +65,48 @@ function DrawerStack() {
             edgeWidth={0}
             drawerContent={(props) => <SideBar {...props} />}
         >
-            <Drawer.Screen name="RouterStack" component={RouterStack}/>
+            <Drawer.Screen name="RouterStack" component={RouterStack} />
         </Drawer.Navigator>
     );
 }
 
 function Navigation() {
-    const {user , setUser} = React.useContext(UserContext);
+    const { user, setUser } = React.useContext(UserContext);
 
-    React.useEffect( () => {
+    React.useEffect(() => {
         AsyncStorage.getItem("@USER_ID").then((value) => {
-                if(value){
-                    fetchProfile(value)
-                }
-                // else{
-                //     alert(value)
-                // }
+            if (value) {
+                fetchProfile(value)
+            }
+            // else{
+            //     alert(value)
+            // }
         }).catch((err) => {
 
         });
-    },[]);
+    }, []);
 
-    const fetchProfile = (id) =>{
+    const fetchProfile = (id) => {
 
         var body = {
-            "user_id":id
+            "user_id": id
         }
-        Services(Constants.API_BASE_URL + "/get_user_details", body,"POST").then((response) => {
-                if(response.status === 1){
-                    setUser(response.data)
-                    //console.log(response.data)
-                }else{
-                    alert(response.msg)
-                }
-            })
+        Services(Constants.API_BASE_URL + "/get_user_details", body, "POST").then((response) => {
+            if (response.status === 1) {
+                setUser(response.data)
+                //console.log(response.data)
+            } else {
+                alert(response.msg)
+            }
+        })
     }
-
+    const linking = {
+        // prefixes: ['usdapp://']
+        prefixes: ['https://', 'usdapp://', 'http://', "http://www.usdapp.com", "https://www.usdapp.com"]
+    };
     return (
-        <NavigationContainer>
-                <DrawerStack />            
+        <NavigationContainer linking={linking} fallback={<ActivityIndicator color="blue" size="large" />}>
+            <DrawerStack />
         </NavigationContainer>
     );
 }
