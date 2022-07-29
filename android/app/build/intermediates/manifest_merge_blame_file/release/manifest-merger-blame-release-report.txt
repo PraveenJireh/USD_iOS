@@ -1,0 +1,658 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.usd"
+4    android:versionCode="4194325"
+5    android:versionName="1.1.6" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:4:5-67
+11-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.CAMERA" />
+12-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:5:5-65
+12-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:5:22-62
+13    <uses-permission android:name="android.permission.VIBRATE" />
+13-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:6:5-66
+13-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:6:22-63
+14    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+14-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:7:5-80
+14-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:7:22-78
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:8:5-81
+15-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:8:22-78
+16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+16-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:9:5-80
+16-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:9:22-77
+17    <uses-permission android:name="android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS" />
+17-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:10:5-89
+17-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:10:22-86
+18    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+18-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:11:5-81
+18-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:11:22-78
+19    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+19-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:12:5-79
+19-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:12:22-76
+20    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+20-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:13:5-77
+20-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:13:22-75
+21    <uses-permission android:name="android.permission.DOWNLOAD_WITHOUT_NOTIFICATION" />
+21-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:14:5-88
+21-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:14:22-85
+22    <uses-permission android:name="android.permission.WAKE_LOCK" />
+22-->[:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-68
+22-->[:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:22-65
+23    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+23-->[:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-79
+23-->[:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:22-76
+24
+25    <queries>
+25-->[:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-14:15
+26        <intent>
+26-->[:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:9-13:18
+27            <action android:name="android.media.action.IMAGE_CAPTURE" />
+27-->[:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:13-73
+27-->[:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:21-70
+28        </intent>
+29    </queries> <!-- Required to access Google Play Licensing -->
+30    <uses-permission android:name="com.android.vending.CHECK_LICENSE" /> <!-- Required to check whether Wi-Fi is enabled -->
+30-->[:rn-fetch-blob] /Users/harika/Downloads/USD New Build/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-73
+30-->[:rn-fetch-blob] /Users/harika/Downloads/USD New Build/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:22-70
+31    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+31-->[:rn-fetch-blob] /Users/harika/Downloads/USD New Build/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:30:5-76
+31-->[:rn-fetch-blob] /Users/harika/Downloads/USD New Build/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:30:22-73
+32    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" /> <!-- for android -->
+32-->[com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:25:5-82
+32-->[com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:25:22-79
+33    <!-- <uses-permission android:name="com.android.launcher.permission.READ_SETTINGS"/> -->
+34    <!-- <uses-permission android:name="com.android.launcher.permission.WRITE_SETTINGS"/> -->
+35    <!-- <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" /> -->
+36    <!-- <uses-permission android:name="com.android.launcher.permission.UNINSTALL_SHORTCUT" /> -->
+37    <!-- for Samsung -->
+38    <uses-permission android:name="com.sec.android.provider.badge.permission.READ" />
+38-->[me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:19:5-86
+38-->[me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:19:22-83
+39    <uses-permission android:name="com.sec.android.provider.badge.permission.WRITE" /> <!-- for htc -->
+39-->[me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:20:5-87
+39-->[me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:20:22-84
+40    <uses-permission android:name="com.htc.launcher.permission.READ_SETTINGS" />
+40-->[me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:23:5-81
+40-->[me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:23:22-78
+41    <uses-permission android:name="com.htc.launcher.permission.UPDATE_SHORTCUT" /> <!-- for sony -->
+41-->[me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:24:5-83
+41-->[me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:24:22-80
+42    <uses-permission android:name="com.sonyericsson.home.permission.BROADCAST_BADGE" />
+42-->[me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:27:5-88
+42-->[me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:27:22-85
+43    <uses-permission android:name="com.sonymobile.home.permission.PROVIDER_INSERT_BADGE" /> <!-- for apex -->
+43-->[me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:28:5-92
+43-->[me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:28:22-89
+44    <uses-permission android:name="com.anddoes.launcher.permission.UPDATE_COUNT" /> <!-- for solid -->
+44-->[me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:31:5-84
+44-->[me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:31:22-81
+45    <uses-permission android:name="com.majeur.launcher.permission.UPDATE_BADGE" /> <!-- for huawei -->
+45-->[me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:34:5-83
+45-->[me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:34:22-80
+46    <uses-permission android:name="com.huawei.android.launcher.permission.CHANGE_BADGE" />
+46-->[me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:37:5-91
+46-->[me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:37:22-88
+47    <uses-permission android:name="com.huawei.android.launcher.permission.READ_SETTINGS" />
+47-->[me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:38:5-92
+47-->[me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:38:22-89
+48    <uses-permission android:name="com.huawei.android.launcher.permission.WRITE_SETTINGS" /> <!-- for ZUK -->
+48-->[me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:39:5-93
+48-->[me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:39:22-90
+49    <uses-permission android:name="android.permission.READ_APP_BADGE" /> <!-- for OPPO -->
+49-->[me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:42:5-73
+49-->[me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:42:22-70
+50    <uses-permission android:name="com.oppo.launcher.permission.READ_SETTINGS" />
+50-->[me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:45:5-82
+50-->[me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:45:22-79
+51    <uses-permission android:name="com.oppo.launcher.permission.WRITE_SETTINGS" /> <!-- for EvMe -->
+51-->[me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:46:5-83
+51-->[me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:46:22-80
+52    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_READ" />
+52-->[me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:49:5-88
+52-->[me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:49:22-85
+53    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_WRITE" />
+53-->[me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:50:5-89
+53-->[me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:50:22-86
+54    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- Permission will be merged into the manifest of the hosting app. -->
+54-->[com.android.installreferrer:installreferrer:1.1.2] /Users/harika/.gradle/caches/transforms-3/0fbcd1760f1a492d2d7fc15420d41ef7/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:9:5-110
+54-->[com.android.installreferrer:installreferrer:1.1.2] /Users/harika/.gradle/caches/transforms-3/0fbcd1760f1a492d2d7fc15420d41ef7/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:9:22-107
+55    <!-- Is required to launch foreground extraction service for targetSdkVersion 28+. -->
+56    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+56-->[com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:8:3-74
+56-->[com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:8:20-72
+57
+58    <application
+58-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:16:5-106:19
+59        android:name="com.usd.MainApplication"
+59-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:17:7-38
+60        android:allowBackup="false"
+60-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:21:7-34
+61        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+61-->[androidx.core:core:1.2.0] /Users/harika/.gradle/caches/transforms-3/47087407cafea504132f07c4617f559a/transformed/core-1.2.0/AndroidManifest.xml:24:18-86
+62        android:extractNativeLibs="false"
+63        android:hardwareAccelerated="true"
+63-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:24:7-41
+64        android:icon="@drawable/logo_v2"
+64-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:19:7-39
+65        android:label="@string/app_name"
+65-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:18:7-39
+66        android:largeHeap="true"
+66-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:23:7-31
+67        android:roundIcon="@drawable/logo"
+67-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:20:7-41
+68        android:theme="@style/AppTheme"
+68-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:25:7-38
+69        android:usesCleartextTraffic="true" >
+69-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:22:7-42
+70        <meta-data
+70-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:27:7-29:68
+71            android:name="com.google.android.geo.API_KEY"
+71-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:28:11-56
+72            android:value="AIzaSyCgq3omQsyQakuQTJd2-EmQ4TJgDUsKCiw" />
+72-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:29:11-66
+73
+74        <activity
+74-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:31:3-36:35
+75            android:name="com.usd.SplashActivity"
+75-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:32:9-39
+76            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+76-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:34:9-79
+77            android:exported="true"
+77-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:36:9-32
+78            android:label="@string/app_name"
+78-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:33:9-41
+79            android:windowSoftInputMode="adjustResize" />
+79-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:35:9-51
+80        <activity
+80-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:37:7-62:18
+81            android:name="com.usd.MainActivity"
+81-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:38:9-37
+82            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+82-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:41:9-86
+83            android:label="@string/app_name"
+83-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:39:9-41
+84            android:launchMode="singleTop"
+84-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:40:9-39
+85            android:windowSoftInputMode="adjustResize" >
+85-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:43:9-51
+86            <intent-filter>
+86-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:44:9-49:25
+87                <action android:name="android.intent.action.MAIN" />
+87-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:45:13-65
+87-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:45:21-62
+88
+89                <category android:name="android.intent.category.LAUNCHER" />
+89-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:46:13-73
+89-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:46:23-70
+90
+91                <action android:name="android.intent.action.DOWNLOAD_COMPLETE" />
+91-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:47:13-77
+91-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:47:21-75
+92            </intent-filter>
+93            <intent-filter>
+93-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:51:9-60:23
+94                <action android:name="android.intent.action.VIEW" />
+94-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:52:11-63
+94-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:52:19-60
+95
+96                <category android:name="android.intent.category.DEFAULT" />
+96-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:53:11-70
+96-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:53:21-67
+97                <category android:name="android.intent.category.BROWSABLE" />
+97-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:54:11-72
+97-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:54:21-69
+98
+99                <data
+99-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:56:11-58:45
+100                    android:host="usdfab.com"
+100-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:57:17-42
+101                    android:pathPrefix="/usd"
+101-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:58:17-42
+102                    android:scheme="https" />
+102-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:56:17-39
+103            </intent-filter>
+104        </activity>
+105        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+105-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:63:7-84
+105-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:63:17-81
+106
+107        <meta-data
+107-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:66:9-67:43
+108            android:name="com.dieam.reactnativepushnotification.notification_foreground"
+108-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:66:21-97
+109            android:value="true" />
+109-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:67:21-41
+110        <!-- Change the resource name to your App's accent color - or any other color you want -->
+111        <meta-data
+111-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:69:9-70:54
+112            android:name="com.dieam.reactnativepushnotification.notification_color"
+112-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:69:21-92
+113            android:resource="@color/black" />
+113-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:70:21-52
+114        <!-- or @android:color/{name} to use a standard color -->
+115
+116
+117        <!--
+118             <meta-data
+119            android:name="com.google.firebase.messaging.default_notification_channel_id"
+120            android:value="@string/default_notification_channel_id" />
+121        -->
+122
+123        <meta-data
+123-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:77:9-79:71
+124            android:name="com.dieam.reactnativepushnotification.default_notification_channel_id"
+124-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:78:13-97
+125            android:value="@string/default_notification_channel_id" />
+125-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:79:13-68
+126
+127        <receiver android:name="com.dieam.reactnativepushnotification.modules.RNPushNotificationActions" />
+127-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:81:9-108
+127-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:81:19-105
+128        <receiver android:name="com.dieam.reactnativepushnotification.modules.RNPushNotificationPublisher" />
+128-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:82:9-110
+128-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:82:19-107
+129        <receiver android:name="com.dieam.reactnativepushnotification.modules.RNPushNotificationBootEventReceiver" >
+129-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:83:9-89:20
+129-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:83:19-115
+130            <intent-filter>
+130-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:84:13-88:29
+131                <action android:name="android.intent.action.BOOT_COMPLETED" />
+131-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:85:17-79
+131-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:85:25-76
+132                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+132-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:86:17-82
+132-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:86:25-79
+133                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
+133-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:87:17-81
+133-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:87:25-79
+134            </intent-filter>
+135        </receiver>
+136
+137        <service
+137-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:91:9-97:19
+138            android:name="com.dieam.reactnativepushnotification.modules.RNPushNotificationListenerService"
+138-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:92:13-107
+139            android:exported="false" >
+139-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:93:13-37
+140            <intent-filter>
+140-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:94:13-96:29
+141                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+141-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:95:17-78
+141-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:95:25-75
+142            </intent-filter>
+143        </service>
+144
+145        <meta-data
+145-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:99:9-101:48
+146            android:name="com.google.firebase.messaging.default_notification_icon"
+146-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:100:13-83
+147            android:resource="@mipmap/logo1" />
+147-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:101:13-45
+148        <!--
+149             <meta-data
+150            android:name="com.google.firebase.messaging.default_notification_color"
+151            android:resource="@color/black" />
+152        -->
+153
+154        <activity
+154-->[:react-native-razorpay] /Users/harika/Downloads/USD New Build/node_modules/react-native-razorpay/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:9-14:86
+155            android:name="com.razorpay.CheckoutActivity"
+155-->[:react-native-razorpay] /Users/harika/Downloads/USD New Build/node_modules/react-native-razorpay/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:13-57
+156            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+156-->[:react-native-razorpay] /Users/harika/Downloads/USD New Build/node_modules/react-native-razorpay/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-83
+157            android:theme="@style/CheckoutTheme" >
+157-->[com.razorpay:checkout:1.6.6] /Users/harika/.gradle/caches/transforms-3/2f195106775cddb24a2a579e19518be3/transformed/jetified-checkout-1.6.6/AndroidManifest.xml:21:13-49
+158            <intent-filter>
+158-->[com.razorpay:checkout:1.6.6] /Users/harika/.gradle/caches/transforms-3/2f195106775cddb24a2a579e19518be3/transformed/jetified-checkout-1.6.6/AndroidManifest.xml:22:13-28:29
+159                <action android:name="android.intent.action.MAIN" />
+159-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:45:13-65
+159-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:45:21-62
+160
+161                <data
+161-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:56:11-58:45
+162                    android:host="rzp.io"
+162-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:57:17-42
+163                    android:scheme="io.rzp" />
+163-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:56:17-39
+164            </intent-filter>
+165        </activity>
+166
+167        <service android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService" />
+167-->[:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:9-111
+167-->[:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:18-108
+168        <service
+168-->[:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:9-23:19
+169            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService"
+169-->[:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:13-95
+170            android:exported="false" >
+170-->[:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:13-37
+171            <intent-filter>
+171-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:94:13-96:29
+172                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+172-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:95:17-78
+172-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:95:25-75
+173            </intent-filter>
+174        </service>
+175
+176        <receiver
+176-->[:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:25:9-32:20
+177            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingReceiver"
+177-->[:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:26:13-96
+178            android:exported="true"
+178-->[:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:27:13-36
+179            android:permission="com.google.android.c2dm.permission.SEND" >
+179-->[:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:28:13-73
+180            <intent-filter>
+180-->[:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:29:13-31:29
+181                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+181-->[:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:30:17-81
+181-->[:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:30:25-78
+182            </intent-filter>
+183        </receiver>
+184
+185        <meta-data
+185-->[:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:34:9-36:36
+186            android:name="firebase_messaging_auto_init_enabled"
+186-->[:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:35:13-64
+187            android:value="true" />
+187-->[:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:36:13-33
+188        <meta-data
+188-->[:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:37:9-39:32
+189            android:name="com.google.firebase.messaging.default_notification_channel_id"
+189-->[:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:38:13-89
+190            android:value="" />
+190-->[:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:39:13-29
+191        <meta-data
+191-->[:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:40:9-42:47
+192            android:name="com.google.firebase.messaging.default_notification_color"
+192-->[:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:41:13-84
+193            android:resource="@color/white" />
+193-->[:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:42:13-44
+194
+195        <provider
+195-->[:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:9-27:20
+196            android:name="androidx.core.content.FileProvider"
+196-->[:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:20:13-62
+197            android:authorities="com.usd.provider"
+197-->[:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:21:13-60
+198            android:exported="false"
+198-->[:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:22:13-37
+199            android:grantUriPermissions="true" >
+199-->[:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:23:13-47
+200            <meta-data
+200-->[:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:24:13-26:58
+201                android:name="android.support.FILE_PROVIDER_PATHS"
+201-->[:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:25:17-67
+202                android:resource="@xml/provider_paths" />
+202-->[:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:26:17-55
+203        </provider>
+204
+205        <activity
+205-->[:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:29:9-31:72
+206            android:name="com.yalantis.ucrop.UCropActivity"
+206-->[:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:30:13-60
+207            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+207-->[:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:31:13-69
+208
+209        <provider
+209-->[:react-native-share] /Users/harika/Downloads/USD New Build/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:9-18:20
+210            android:name="cl.json.RNShareFileProvider"
+210-->[:react-native-share] /Users/harika/Downloads/USD New Build/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:13-55
+211            android:authorities="com.usd.rnshare.fileprovider"
+211-->[:react-native-share] /Users/harika/Downloads/USD New Build/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:13-72
+212            android:exported="false"
+212-->[:react-native-share] /Users/harika/Downloads/USD New Build/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:13-37
+213            android:grantUriPermissions="true" >
+213-->[:react-native-share] /Users/harika/Downloads/USD New Build/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-47
+214            <meta-data
+214-->[:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:24:13-26:58
+215                android:name="android.support.FILE_PROVIDER_PATHS"
+215-->[:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:25:17-67
+216                android:resource="@xml/share_download_paths" />
+216-->[:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:26:17-55
+217        </provider>
+218        <provider
+218-->[:react-native-webview] /Users/harika/Downloads/USD New Build/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:9-20:20
+219            android:name="com.reactnativecommunity.webview.RNCWebViewFileProvider"
+219-->[:react-native-webview] /Users/harika/Downloads/USD New Build/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:13-83
+220            android:authorities="com.usd.fileprovider"
+220-->[:react-native-webview] /Users/harika/Downloads/USD New Build/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-64
+221            android:exported="false"
+221-->[:react-native-webview] /Users/harika/Downloads/USD New Build/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:13-37
+222            android:grantUriPermissions="true" >
+222-->[:react-native-webview] /Users/harika/Downloads/USD New Build/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-47
+223            <meta-data
+223-->[:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:24:13-26:58
+224                android:name="android.support.FILE_PROVIDER_PATHS"
+224-->[:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:25:17-67
+225                android:resource="@xml/file_provider_paths" />
+225-->[:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:26:17-55
+226        </provider>
+227        <provider
+227-->[:rn-fetch-blob] /Users/harika/Downloads/USD New Build/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:36:9-44:20
+228            android:name="com.RNFetchBlob.Utils.FileProvider"
+228-->[:rn-fetch-blob] /Users/harika/Downloads/USD New Build/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:37:13-62
+229            android:authorities="com.usd.provider"
+229-->[:rn-fetch-blob] /Users/harika/Downloads/USD New Build/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:38:13-60
+230            android:exported="false"
+230-->[:rn-fetch-blob] /Users/harika/Downloads/USD New Build/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:39:13-37
+231            android:grantUriPermissions="true" >
+231-->[:rn-fetch-blob] /Users/harika/Downloads/USD New Build/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:40:13-47
+232            <meta-data
+232-->[:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:24:13-26:58
+233                android:name="android.support.FILE_PROVIDER_PATHS"
+233-->[:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:25:17-67
+234                android:resource="@xml/provider_paths" />
+234-->[:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:26:17-55
+235        </provider>
+236
+237        <receiver
+237-->[com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:28:9-35:20
+238            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+238-->[com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:29:13-78
+239            android:exported="true"
+239-->[com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:30:13-36
+240            android:permission="com.google.android.c2dm.permission.SEND" >
+240-->[com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:31:13-73
+241            <intent-filter>
+241-->[:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:29:13-31:29
+242                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+242-->[:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:30:17-81
+242-->[:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:30:25-78
+243            </intent-filter>
+244        </receiver>
+245        <!--
+246             FirebaseMessagingService performs security checks at runtime,
+247             but set to not exported to explicitly avoid allowing another app to call it.
+248        -->
+249        <service
+249-->[com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:41:9-48:19
+250            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+250-->[com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:42:13-82
+251            android:directBootAware="true"
+251-->[com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:43:13-43
+252            android:exported="false" >
+252-->[com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:44:13-37
+253            <intent-filter android:priority="-500" >
+253-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:94:13-96:29
+254                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+254-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:95:17-78
+254-->/Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:95:25-75
+255            </intent-filter>
+256        </service>
+257        <service
+257-->[com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:49:9-55:19
+258            android:name="com.google.firebase.components.ComponentDiscoveryService"
+258-->[com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:50:13-84
+259            android:directBootAware="true"
+259-->[com.google.firebase:firebase-common:20.0.0] /Users/harika/.gradle/caches/transforms-3/e2be09db50561da7cb87118f450e77b8/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:35:13-43
+260            android:exported="false" >
+260-->[com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:51:13-37
+261            <meta-data
+261-->[com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:52:13-54:85
+262                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+262-->[com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:53:17-119
+263                android:value="com.google.firebase.components.ComponentRegistrar" />
+263-->[com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:54:17-82
+264            <meta-data
+264-->[com.google.firebase:firebase-datatransport:18.0.0] /Users/harika/.gradle/caches/transforms-3/e5fd145ea166936cfd6a9226e48a9316/transformed/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:28:13-30:85
+265                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+265-->[com.google.firebase:firebase-datatransport:18.0.0] /Users/harika/.gradle/caches/transforms-3/e5fd145ea166936cfd6a9226e48a9316/transformed/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:29:17-115
+266                android:value="com.google.firebase.components.ComponentRegistrar" />
+266-->[com.google.firebase:firebase-datatransport:18.0.0] /Users/harika/.gradle/caches/transforms-3/e5fd145ea166936cfd6a9226e48a9316/transformed/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:30:17-82
+267            <meta-data
+267-->[com.google.firebase:firebase-installations:17.0.0] /Users/harika/.gradle/caches/transforms-3/52b3985fed3338b56995a81381e1d96a/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:18:13-20:85
+268                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+268-->[com.google.firebase:firebase-installations:17.0.0] /Users/harika/.gradle/caches/transforms-3/52b3985fed3338b56995a81381e1d96a/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:19:17-127
+269                android:value="com.google.firebase.components.ComponentRegistrar" />
+269-->[com.google.firebase:firebase-installations:17.0.0] /Users/harika/.gradle/caches/transforms-3/52b3985fed3338b56995a81381e1d96a/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:20:17-82
+270        </service>
+271
+272        <receiver android:name="com.razorpay.RzpTokenReceiver" >
+272-->[com.razorpay:checkout:1.6.6] /Users/harika/.gradle/caches/transforms-3/2f195106775cddb24a2a579e19518be3/transformed/jetified-checkout-1.6.6/AndroidManifest.xml:12:9-16:20
+272-->[com.razorpay:checkout:1.6.6] /Users/harika/.gradle/caches/transforms-3/2f195106775cddb24a2a579e19518be3/transformed/jetified-checkout-1.6.6/AndroidManifest.xml:12:19-63
+273            <intent-filter>
+273-->[com.razorpay:checkout:1.6.6] /Users/harika/.gradle/caches/transforms-3/2f195106775cddb24a2a579e19518be3/transformed/jetified-checkout-1.6.6/AndroidManifest.xml:13:13-15:29
+274                <action android:name="rzp.device_token.share" />
+274-->[com.razorpay:checkout:1.6.6] /Users/harika/.gradle/caches/transforms-3/2f195106775cddb24a2a579e19518be3/transformed/jetified-checkout-1.6.6/AndroidManifest.xml:14:17-65
+274-->[com.razorpay:checkout:1.6.6] /Users/harika/.gradle/caches/transforms-3/2f195106775cddb24a2a579e19518be3/transformed/jetified-checkout-1.6.6/AndroidManifest.xml:14:25-62
+275            </intent-filter>
+276        </receiver>
+277
+278        <activity
+278-->[com.google.android.gms:play-services-auth:19.2.0] /Users/harika/.gradle/caches/transforms-3/dc929b827540638b7ff9457c9b149a4e/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:23:9-27:75
+279            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+279-->[com.google.android.gms:play-services-auth:19.2.0] /Users/harika/.gradle/caches/transforms-3/dc929b827540638b7ff9457c9b149a4e/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:24:13-93
+280            android:excludeFromRecents="true"
+280-->[com.google.android.gms:play-services-auth:19.2.0] /Users/harika/.gradle/caches/transforms-3/dc929b827540638b7ff9457c9b149a4e/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:25:13-46
+281            android:exported="false"
+281-->[com.google.android.gms:play-services-auth:19.2.0] /Users/harika/.gradle/caches/transforms-3/dc929b827540638b7ff9457c9b149a4e/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:26:13-37
+282            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+282-->[com.google.android.gms:play-services-auth:19.2.0] /Users/harika/.gradle/caches/transforms-3/dc929b827540638b7ff9457c9b149a4e/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:27:13-72
+283        <!--
+284            Service handling Google Sign-In user revocation. For apps that do not integrate with
+285            Google Sign-In, this service will never be started.
+286        -->
+287        <service
+287-->[com.google.android.gms:play-services-auth:19.2.0] /Users/harika/.gradle/caches/transforms-3/dc929b827540638b7ff9457c9b149a4e/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:33:9-37:51
+288            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+288-->[com.google.android.gms:play-services-auth:19.2.0] /Users/harika/.gradle/caches/transforms-3/dc929b827540638b7ff9457c9b149a4e/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:34:13-89
+289            android:exported="true"
+289-->[com.google.android.gms:play-services-auth:19.2.0] /Users/harika/.gradle/caches/transforms-3/dc929b827540638b7ff9457c9b149a4e/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:35:13-36
+290            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+290-->[com.google.android.gms:play-services-auth:19.2.0] /Users/harika/.gradle/caches/transforms-3/dc929b827540638b7ff9457c9b149a4e/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:36:13-107
+291            android:visibleToInstantApps="true" />
+291-->[com.google.android.gms:play-services-auth:19.2.0] /Users/harika/.gradle/caches/transforms-3/dc929b827540638b7ff9457c9b149a4e/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:37:13-48
+292
+293        <activity
+293-->[com.google.android.gms:play-services-base:17.5.0] /Users/harika/.gradle/caches/transforms-3/e0a2c853b5c38da6906b6ae3dc868357/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:23:9-26:75
+294            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+294-->[com.google.android.gms:play-services-base:17.5.0] /Users/harika/.gradle/caches/transforms-3/e0a2c853b5c38da6906b6ae3dc868357/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:24:13-79
+295            android:exported="false"
+295-->[com.google.android.gms:play-services-base:17.5.0] /Users/harika/.gradle/caches/transforms-3/e0a2c853b5c38da6906b6ae3dc868357/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:25:13-37
+296            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+296-->[com.google.android.gms:play-services-base:17.5.0] /Users/harika/.gradle/caches/transforms-3/e0a2c853b5c38da6906b6ae3dc868357/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:26:13-72
+297
+298        <service
+298-->[com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/harika/.gradle/caches/transforms-3/0e759e4dfa23b957cd3311dda9619d21/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:29:9-35:19
+299            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+299-->[com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/harika/.gradle/caches/transforms-3/0e759e4dfa23b957cd3311dda9619d21/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:30:13-103
+300            android:exported="false" >
+300-->[com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/harika/.gradle/caches/transforms-3/0e759e4dfa23b957cd3311dda9619d21/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:31:13-37
+301            <meta-data
+301-->[com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/harika/.gradle/caches/transforms-3/0e759e4dfa23b957cd3311dda9619d21/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:32:13-34:39
+302                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+302-->[com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/harika/.gradle/caches/transforms-3/0e759e4dfa23b957cd3311dda9619d21/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:33:17-94
+303                android:value="cct" />
+303-->[com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/harika/.gradle/caches/transforms-3/0e759e4dfa23b957cd3311dda9619d21/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:34:17-36
+304        </service>
+305        <service
+305-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/harika/.gradle/caches/transforms-3/e6efb0dd3b3d315d7d944d2e87afea48/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:26:9-30:19
+306            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+306-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/harika/.gradle/caches/transforms-3/e6efb0dd3b3d315d7d944d2e87afea48/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:27:13-117
+307            android:exported="false"
+307-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/harika/.gradle/caches/transforms-3/e6efb0dd3b3d315d7d944d2e87afea48/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:28:13-37
+308            android:permission="android.permission.BIND_JOB_SERVICE" >
+308-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/harika/.gradle/caches/transforms-3/e6efb0dd3b3d315d7d944d2e87afea48/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:29:13-69
+309        </service>
+310
+311        <receiver
+311-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/harika/.gradle/caches/transforms-3/e6efb0dd3b3d315d7d944d2e87afea48/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:32:9-34:40
+312            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+312-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/harika/.gradle/caches/transforms-3/e6efb0dd3b3d315d7d944d2e87afea48/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:33:13-132
+313            android:exported="false" />
+313-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/harika/.gradle/caches/transforms-3/e6efb0dd3b3d315d7d944d2e87afea48/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:34:13-37
+314
+315        <meta-data
+315-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/harika/.gradle/caches/transforms-3/75926d81c6edc234c9116dc3bdaaa247/transformed/jetified-okhttp3-integration-4.11.0/AndroidManifest.xml:11:9-13:43
+316            android:name="com.bumptech.glide.integration.okhttp3.OkHttpGlideModule"
+316-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/harika/.gradle/caches/transforms-3/75926d81c6edc234c9116dc3bdaaa247/transformed/jetified-okhttp3-integration-4.11.0/AndroidManifest.xml:12:13-84
+317            android:value="GlideModule" />
+317-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/harika/.gradle/caches/transforms-3/75926d81c6edc234c9116dc3bdaaa247/transformed/jetified-okhttp3-integration-4.11.0/AndroidManifest.xml:13:13-40
+318
+319        <provider
+319-->[com.google.firebase:firebase-common:20.0.0] /Users/harika/.gradle/caches/transforms-3/e2be09db50561da7cb87118f450e77b8/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:26:9-31:39
+320            android:name="com.google.firebase.provider.FirebaseInitProvider"
+320-->[com.google.firebase:firebase-common:20.0.0] /Users/harika/.gradle/caches/transforms-3/e2be09db50561da7cb87118f450e77b8/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:27:13-77
+321            android:authorities="com.usd.firebaseinitprovider"
+321-->[com.google.firebase:firebase-common:20.0.0] /Users/harika/.gradle/caches/transforms-3/e2be09db50561da7cb87118f450e77b8/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:28:13-72
+322            android:directBootAware="true"
+322-->[com.google.firebase:firebase-common:20.0.0] /Users/harika/.gradle/caches/transforms-3/e2be09db50561da7cb87118f450e77b8/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:29:13-43
+323            android:exported="false"
+323-->[com.google.firebase:firebase-common:20.0.0] /Users/harika/.gradle/caches/transforms-3/e2be09db50561da7cb87118f450e77b8/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:30:13-37
+324            android:initOrder="100" />
+324-->[com.google.firebase:firebase-common:20.0.0] /Users/harika/.gradle/caches/transforms-3/e2be09db50561da7cb87118f450e77b8/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:31:13-36
+325
+326        <meta-data
+326-->[com.google.android.gms:play-services-basement:17.5.0] /Users/harika/.gradle/caches/transforms-3/268f9e402883c4ba45efede7f2db2908/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:23:9-25:69
+327            android:name="com.google.android.gms.version"
+327-->[com.google.android.gms:play-services-basement:17.5.0] /Users/harika/.gradle/caches/transforms-3/268f9e402883c4ba45efede7f2db2908/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:24:13-58
+328            android:value="@integer/google_play_services_version" /> <!-- The activities will be merged into the manifest of the hosting app. -->
+328-->[com.google.android.gms:play-services-basement:17.5.0] /Users/harika/.gradle/caches/transforms-3/268f9e402883c4ba45efede7f2db2908/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:25:13-66
+329        <activity
+329-->[com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:12:5-271
+330            android:name="com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity"
+330-->[com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:12:15-102
+331            android:enabled="false"
+331-->[com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:12:103-126
+332            android:exported="false"
+332-->[com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:12:127-151
+333            android:launchMode="singleInstance"
+333-->[com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:12:204-239
+334            android:process=":playcore_missing_splits_activity"
+334-->[com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:12:152-203
+335            android:stateNotNeeded="true" />
+335-->[com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:12:240-269
+336        <activity
+336-->[com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:13:5-278
+337            android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
+337-->[com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:13:15-95
+338            android:enabled="false"
+338-->[com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:13:96-119
+339            android:exported="false"
+339-->[com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:13:120-144
+340            android:process=":playcore_dialog_wrapper_activity"
+340-->[com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:13:175-226
+341            android:stateNotNeeded="true"
+341-->[com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:13:145-174
+342            android:theme="@style/Theme.PlayCore.Transparent" /> <!-- The service will be merged into the manifest of the hosting app. -->
+342-->[com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:13:227-276
+343        <service
+343-->[com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:16:5-145
+344            android:name="com.google.android.play.core.assetpacks.AssetPackExtractionService"
+344-->[com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:16:14-95
+345            android:enabled="false"
+345-->[com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:16:96-119
+346            android:exported="true" />
+346-->[com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:16:120-143
+347    </application>
+348
+349</manifest> <!-- android:launchMode="standard" -->

@@ -1,0 +1,1039 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:1:1-108:12
+INJECTED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:1:1-108:12
+INJECTED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:1:1-108:12
+INJECTED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:1:1-108:12
+MERGED from [:react-native-razorpay] /Users/harika/Downloads/USD New Build/node_modules/react-native-razorpay/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-17:12
+MERGED from [:react-native-push-notification] /Users/harika/Downloads/USD New Build/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-async-storage_async-storage] /Users/harika/Downloads/USD New Build/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_checkbox] /Users/harika/Downloads/USD New Build/node_modules/@react-native-community/checkbox/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_datetimepicker] /Users/harika/Downloads/USD New Build/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-community_picker] /Users/harika/Downloads/USD New Build/node_modules/@react-native-community/picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-45:12
+MERGED from [:react-native-firebase_app] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:webileapps_rn-range-slider] /Users/harika/Downloads/USD New Build/node_modules/@webileapps/rn-range-slider/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-device-info] /Users/harika/Downloads/USD New Build/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-fast-image] /Users/harika/Downloads/USD New Build/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-geolocation-service] /Users/harika/Downloads/USD New Build/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/harika/Downloads/USD New Build/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-base64] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-base64/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-34:12
+MERGED from [:react-native-reanimated] /Users/harika/Downloads/USD New Build/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Users/harika/Downloads/USD New Build/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/harika/Downloads/USD New Build/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-share] /Users/harika/Downloads/USD New Build/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-splash-screen] /Users/harika/Downloads/USD New Build/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-vector-icons] /Users/harika/Downloads/USD New Build/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-version-check] /Users/harika/Downloads/USD New Build/node_modules/react-native-version-check/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-webview] /Users/harika/Downloads/USD New Build/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-23:12
+MERGED from [:rn-fetch-blob] /Users/harika/Downloads/USD New Build/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-47:12
+MERGED from [:sp-react-native-in-app-updates] /Users/harika/Downloads/USD New Build/node_modules/sp-react-native-in-app-updates/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/harika/.gradle/caches/transforms-3/d4205a4a0fed5333590e211409133e58/transformed/jetified-react-native-0.63.4/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/harika/.gradle/caches/transforms-3/ea86021aaf9ba584039b5c3734e3c1ef/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/harika/.gradle/caches/transforms-3/76ba3091827d01de8e7a2b6a36744fbe/transformed/multidex-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:17:1-58:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.24] /Users/harika/.gradle/caches/transforms-3/93fc55ae3fadb0df02c8bc1a8e52cf03/transformed/jetified-android-gif-drawable-1.2.24/AndroidManifest.xml:2:1-9:12
+MERGED from [com.razorpay:checkout:1.6.6] /Users/harika/.gradle/caches/transforms-3/2f195106775cddb24a2a579e19518be3/transformed/jetified-checkout-1.6.6/AndroidManifest.xml:2:1-32:12
+MERGED from [com.google.android.gms:play-services-auth:19.2.0] /Users/harika/.gradle/caches/transforms-3/dc929b827540638b7ff9457c9b149a4e/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/harika/.gradle/caches/transforms-3/ba82fbe20035156ff1046e1b4377dbfe/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/harika/.gradle/caches/transforms-3/94801b6ca85e415ce2dbcbe73be0cc36/transformed/jetified-play-services-location-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.1.0] /Users/harika/.gradle/caches/transforms-3/fec03aea89e9f48f88a57ac1b419c0bd/transformed/jetified-play-services-auth-api-phone-17.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/harika/.gradle/caches/transforms-3/bb439626774e06ed48cc8d482a94403d/transformed/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/harika/.gradle/caches/transforms-3/e0a2c853b5c38da6906b6ae3dc868357/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:17:1-29:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/harika/.gradle/caches/transforms-3/922c2b2a5040975dbc8d2dac0d022bc1/transformed/jetified-android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] /Users/harika/Downloads/USD New Build/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/harika/.gradle/caches/transforms-3/e5fd145ea166936cfd6a9226e48a9316/transformed/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/harika/.gradle/caches/transforms-3/0e759e4dfa23b957cd3311dda9619d21/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/harika/.gradle/caches/transforms-3/e6efb0dd3b3d315d7d944d2e87afea48/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:15:1-41:12
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] /Users/harika/.gradle/caches/transforms-3/ee0a4da2db4c1a62297e9263e77ec665/transformed/jetified-ucrop-2.2.6-native/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/harika/.gradle/caches/transforms-3/9484c0b06a0d2b279e96093d883ef2b0/transformed/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/harika/.gradle/caches/transforms-3/a26da561de36f4b6e0fcb24e55d804ee/transformed/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/harika/.gradle/caches/transforms-3/ca843f462f4a3c0f10b645cdb78f6353/transformed/jetified-fresco-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/harika/.gradle/caches/transforms-3/7b4b5a7a22237d7cfbbfb6598fb5fe51/transformed/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/harika/.gradle/caches/transforms-3/8ebda44b8e0a5b628ca06f3207eaeec0/transformed/jetified-drawee-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/harika/.gradle/caches/transforms-3/d3b71ecbd7b8821c56c79910a2bae14e/transformed/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/harika/.gradle/caches/transforms-3/58f694369be8c257aa4952499078c706/transformed/jetified-imagepipeline-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/harika/.gradle/caches/transforms-3/8f12687ff8edceb6fd81c76f131dfc76/transformed/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/harika/.gradle/caches/transforms-3/761b235149bb829619debec5e366124b/transformed/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/harika/.gradle/caches/transforms-3/c30f305d5914ca63ec5adf46dfefe693/transformed/jetified-soloader-0.9.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/harika/.gradle/caches/transforms-3/75926d81c6edc234c9116dc3bdaaa247/transformed/jetified-okhttp3-integration-4.11.0/AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/harika/.gradle/caches/transforms-3/02defe3da5325c070472a27692d77103/transformed/jetified-transport-api-3.0.0/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/harika/.gradle/caches/transforms-3/52b3985fed3338b56995a81381e1d96a/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/harika/.gradle/caches/transforms-3/e2be09db50561da7cb87118f450e77b8/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/harika/.gradle/caches/transforms-3/75b5fbde74aa2f7bb23eade67ce6eb9a/transformed/jetified-firebase-components-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/harika/.gradle/caches/transforms-3/905cde3f8590dda9ee9af3723085a8ea/transformed/jetified-glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/harika/.gradle/caches/transforms-3/86375cb8f64d7e305e1f9ce868c16b21/transformed/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/harika/.gradle/caches/transforms-3/dd91a403dd4f58dfe248a346cc340091/transformed/jetified-play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/harika/.gradle/caches/transforms-3/62b8ad83e51716bcc80a61beadeb5d2f/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/harika/.gradle/caches/transforms-3/ebfffc6b35b4e6ddb2e425ba09b76557/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/harika/.gradle/caches/transforms-3/7c72ce46cb44f7817d65809dbeeeecfe/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /Users/harika/.gradle/caches/transforms-3/41d7b68253b3b836f15dc67b9b157ff5/transformed/jetified-firebase-installations-interop-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/harika/.gradle/caches/transforms-3/ebb65a7e0fc4ff04fbb8ea4417d9a256/transformed/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/harika/.gradle/caches/transforms-3/268f9e402883c4ba45efede7f2db2908/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/harika/.gradle/caches/transforms-3/cb1021d4975e2bf4d86bc89cbef88233/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/harika/.gradle/caches/transforms-3/b6a70aefed313c4be109003326632969/transformed/fragment-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/harika/.gradle/caches/transforms-3/d1ec7887906d76c8a94fb45e15b2df10/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/harika/.gradle/caches/transforms-3/1543e52fb4e56d2c46fb00ae21fa6110/transformed/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/harika/.gradle/caches/transforms-3/7a49ceea2e04ced7362bbf2226e0aecf/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/harika/.gradle/caches/transforms-3/d4cf66bec8241ee84c2c5cfb50963a0f/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/harika/.gradle/caches/transforms-3/bbd5b1f9974939faa126496c589a1003/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/harika/.gradle/caches/transforms-3/4d67303336a3e1b543cab5e61d63a071/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/harika/.gradle/caches/transforms-3/e1feb82a386b52287a7b9f9cc26ece5c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/harika/.gradle/caches/transforms-3/305eb8e75c846650dd59fde7a0145566/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] /Users/harika/.gradle/caches/transforms-3/60cc38a733c4ee44b70e708dc6dfbc6f/transformed/exifinterface-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/harika/.gradle/caches/transforms-3/43c714152abf8b04f16a517508460a49/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/harika/.gradle/caches/transforms-3/e32d3ab01a668199a2d53621253ff6cf/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/harika/.gradle/caches/transforms-3/47366bff95f402eae7434c7060fb225f/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/harika/.gradle/caches/transforms-3/b3af6ff1ce525a3a1b7de632766218e0/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/harika/.gradle/caches/transforms-3/0b3280691d21ca8ff0943bc567271d11/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/harika/.gradle/caches/transforms-3/389835c806b2d73221c4dd52d48053a5/transformed/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/harika/.gradle/caches/transforms-3/e338ed7884e646a0288468a6a0cf83a1/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/harika/.gradle/caches/transforms-3/e868470f2cbc433939bbe7c2f7300e56/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] /Users/harika/.gradle/caches/transforms-3/47087407cafea504132f07c4617f559a/transformed/core-1.2.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/harika/.gradle/caches/transforms-3/f9c94f993f5cfd49b2b8090b64670d4b/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/harika/.gradle/caches/transforms-3/42b79ced1aa2f16a2a86c6ed0e80d2c1/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/harika/.gradle/caches/transforms-3/418aa0b51a6f4ba4184f8d4d152a8f13/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/harika/.gradle/caches/transforms-3/c54e61693a5695dedaa5976cf519f039/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/harika/.gradle/caches/transforms-3/9e7b735e592713da9b6c85bd28b1dfdb/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/harika/.gradle/caches/transforms-3/3644d5ed46f1a7356f3171f57526431a/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/harika/.gradle/caches/transforms-3/c9dc0262ccff14d6b49a66d589c8dc66/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/harika/.gradle/caches/transforms-3/76bf5ed7b380c75d8e64bbac6832260c/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/harika/.gradle/caches/transforms-3/036190e4fb8d038524a4de65648f865c/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/harika/.gradle/caches/transforms-3/9760b30f98a7bb18c28540dda65edd68/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/harika/.gradle/caches/transforms-3/9452d1a6925946f81422249123a1f33b/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/harika/.gradle/caches/transforms-3/b967118513f9811bdf59bf902ff420b4/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:2:1-52:12
+MERGED from [pl.droidsonroids.relinker:relinker:1.4.1] /Users/harika/.gradle/caches/transforms-3/0bad285a995ba148844b1a8f0098b8be/transformed/jetified-relinker-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/harika/.gradle/caches/transforms-3/0fbcd1760f1a492d2d7fc15420d41ef7/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:2:1-19:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/harika/.gradle/caches/transforms-3/7eb5bb0819ae1b5b9997642be36da21e/transformed/jetified-fbcore-2.0.0/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:1:1-108:12
+INJECTED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:1:1-108:12
+INJECTED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:1:1-108:12
+	package
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:2:3-20
+		INJECTED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:1:1-108:12
+		INJECTED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:1:1-108:12
+		INJECTED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
+MERGED from [:rn-fetch-blob] /Users/harika/Downloads/USD New Build/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:5-67
+MERGED from [:rn-fetch-blob] /Users/harika/Downloads/USD New Build/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:5-67
+MERGED from [com.razorpay:checkout:1.6.6] /Users/harika/.gradle/caches/transforms-3/2f195106775cddb24a2a579e19518be3/transformed/jetified-checkout-1.6.6/AndroidManifest.xml:9:5-67
+MERGED from [com.razorpay:checkout:1.6.6] /Users/harika/.gradle/caches/transforms-3/2f195106775cddb24a2a579e19518be3/transformed/jetified-checkout-1.6.6/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/harika/.gradle/caches/transforms-3/ba82fbe20035156ff1046e1b4377dbfe/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/harika/.gradle/caches/transforms-3/ba82fbe20035156ff1046e1b4377dbfe/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/harika/.gradle/caches/transforms-3/0e759e4dfa23b957cd3311dda9619d21/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/harika/.gradle/caches/transforms-3/0e759e4dfa23b957cd3311dda9619d21/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/harika/.gradle/caches/transforms-3/52b3985fed3338b56995a81381e1d96a/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/harika/.gradle/caches/transforms-3/52b3985fed3338b56995a81381e1d96a/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/harika/.gradle/caches/transforms-3/86375cb8f64d7e305e1f9ce868c16b21/transformed/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/harika/.gradle/caches/transforms-3/86375cb8f64d7e305e1f9ce868c16b21/transformed/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:5:22-62
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:6:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:8:5-81
+MERGED from [:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:5-81
+MERGED from [:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:5-81
+MERGED from [:rn-fetch-blob] /Users/harika/Downloads/USD New Build/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:33:5-81
+MERGED from [:rn-fetch-blob] /Users/harika/Downloads/USD New Build/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:10:5-89
+	android:name
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:10:22-86
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:13:5-77
+	android:name
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:13:22-75
+uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:14:5-88
+	android:name
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:14:22-85
+application
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:16:5-106:19
+MERGED from [:react-native-razorpay] /Users/harika/Downloads/USD New Build/node_modules/react-native-razorpay/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-15:19
+MERGED from [:react-native-razorpay] /Users/harika/Downloads/USD New Build/node_modules/react-native-razorpay/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-15:19
+MERGED from [:react-native-community_datetimepicker] /Users/harika/Downloads/USD New Build/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-20
+MERGED from [:react-native-community_datetimepicker] /Users/harika/Downloads/USD New Build/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-20
+MERGED from [:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:5-43:19
+MERGED from [:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:5-43:19
+MERGED from [:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:5-32:19
+MERGED from [:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:5-32:19
+MERGED from [:react-native-share] /Users/harika/Downloads/USD New Build/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-share] /Users/harika/Downloads/USD New Build/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-splash-screen] /Users/harika/Downloads/USD New Build/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] /Users/harika/Downloads/USD New Build/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-webview] /Users/harika/Downloads/USD New Build/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] /Users/harika/Downloads/USD New Build/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-21:19
+MERGED from [:rn-fetch-blob] /Users/harika/Downloads/USD New Build/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:35:5-45:19
+MERGED from [:rn-fetch-blob] /Users/harika/Downloads/USD New Build/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:35:5-45:19
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/harika/.gradle/caches/transforms-3/d4205a4a0fed5333590e211409133e58/transformed/jetified-react-native-0.63.4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/harika/.gradle/caches/transforms-3/d4205a4a0fed5333590e211409133e58/transformed/jetified-react-native-0.63.4/AndroidManifest.xml:11:5-20
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:27:5-56:19
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:27:5-56:19
+MERGED from [com.razorpay:checkout:1.6.6] /Users/harika/.gradle/caches/transforms-3/2f195106775cddb24a2a579e19518be3/transformed/jetified-checkout-1.6.6/AndroidManifest.xml:11:5-30:19
+MERGED from [com.razorpay:checkout:1.6.6] /Users/harika/.gradle/caches/transforms-3/2f195106775cddb24a2a579e19518be3/transformed/jetified-checkout-1.6.6/AndroidManifest.xml:11:5-30:19
+MERGED from [com.google.android.gms:play-services-auth:19.2.0] /Users/harika/.gradle/caches/transforms-3/dc929b827540638b7ff9457c9b149a4e/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:19.2.0] /Users/harika/.gradle/caches/transforms-3/dc929b827540638b7ff9457c9b149a4e/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/harika/.gradle/caches/transforms-3/ba82fbe20035156ff1046e1b4377dbfe/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/harika/.gradle/caches/transforms-3/ba82fbe20035156ff1046e1b4377dbfe/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/harika/.gradle/caches/transforms-3/94801b6ca85e415ce2dbcbe73be0cc36/transformed/jetified-play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/harika/.gradle/caches/transforms-3/94801b6ca85e415ce2dbcbe73be0cc36/transformed/jetified-play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/harika/.gradle/caches/transforms-3/e0a2c853b5c38da6906b6ae3dc868357/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/harika/.gradle/caches/transforms-3/e0a2c853b5c38da6906b6ae3dc868357/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/harika/.gradle/caches/transforms-3/e5fd145ea166936cfd6a9226e48a9316/transformed/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/harika/.gradle/caches/transforms-3/e5fd145ea166936cfd6a9226e48a9316/transformed/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/harika/.gradle/caches/transforms-3/0e759e4dfa23b957cd3311dda9619d21/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/harika/.gradle/caches/transforms-3/0e759e4dfa23b957cd3311dda9619d21/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/harika/.gradle/caches/transforms-3/e6efb0dd3b3d315d7d944d2e87afea48/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/harika/.gradle/caches/transforms-3/e6efb0dd3b3d315d7d944d2e87afea48/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.material:material:1.1.0] /Users/harika/.gradle/caches/transforms-3/9484c0b06a0d2b279e96093d883ef2b0/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/harika/.gradle/caches/transforms-3/9484c0b06a0d2b279e96093d883ef2b0/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/harika/.gradle/caches/transforms-3/c30f305d5914ca63ec5adf46dfefe693/transformed/jetified-soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/harika/.gradle/caches/transforms-3/c30f305d5914ca63ec5adf46dfefe693/transformed/jetified-soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/harika/.gradle/caches/transforms-3/75926d81c6edc234c9116dc3bdaaa247/transformed/jetified-okhttp3-integration-4.11.0/AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/harika/.gradle/caches/transforms-3/75926d81c6edc234c9116dc3bdaaa247/transformed/jetified-okhttp3-integration-4.11.0/AndroidManifest.xml:10:5-14:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/harika/.gradle/caches/transforms-3/52b3985fed3338b56995a81381e1d96a/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/harika/.gradle/caches/transforms-3/52b3985fed3338b56995a81381e1d96a/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/harika/.gradle/caches/transforms-3/e2be09db50561da7cb87118f450e77b8/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/harika/.gradle/caches/transforms-3/e2be09db50561da7cb87118f450e77b8/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/harika/.gradle/caches/transforms-3/905cde3f8590dda9ee9af3723085a8ea/transformed/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/harika/.gradle/caches/transforms-3/905cde3f8590dda9ee9af3723085a8ea/transformed/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/harika/.gradle/caches/transforms-3/dd91a403dd4f58dfe248a346cc340091/transformed/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/harika/.gradle/caches/transforms-3/dd91a403dd4f58dfe248a346cc340091/transformed/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/harika/.gradle/caches/transforms-3/62b8ad83e51716bcc80a61beadeb5d2f/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/harika/.gradle/caches/transforms-3/62b8ad83e51716bcc80a61beadeb5d2f/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/harika/.gradle/caches/transforms-3/ebfffc6b35b4e6ddb2e425ba09b76557/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/harika/.gradle/caches/transforms-3/ebfffc6b35b4e6ddb2e425ba09b76557/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/harika/.gradle/caches/transforms-3/7c72ce46cb44f7817d65809dbeeeecfe/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/harika/.gradle/caches/transforms-3/7c72ce46cb44f7817d65809dbeeeecfe/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/harika/.gradle/caches/transforms-3/ebb65a7e0fc4ff04fbb8ea4417d9a256/transformed/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/harika/.gradle/caches/transforms-3/ebb65a7e0fc4ff04fbb8ea4417d9a256/transformed/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/harika/.gradle/caches/transforms-3/268f9e402883c4ba45efede7f2db2908/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/harika/.gradle/caches/transforms-3/268f9e402883c4ba45efede7f2db2908/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/harika/.gradle/caches/transforms-3/bbd5b1f9974939faa126496c589a1003/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/harika/.gradle/caches/transforms-3/bbd5b1f9974939faa126496c589a1003/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.2.0] /Users/harika/.gradle/caches/transforms-3/47087407cafea504132f07c4617f559a/transformed/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] /Users/harika/.gradle/caches/transforms-3/47087407cafea504132f07c4617f559a/transformed/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/harika/.gradle/caches/transforms-3/f9c94f993f5cfd49b2b8090b64670d4b/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/harika/.gradle/caches/transforms-3/f9c94f993f5cfd49b2b8090b64670d4b/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/harika/.gradle/caches/transforms-3/0fbcd1760f1a492d2d7fc15420d41ef7/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/harika/.gradle/caches/transforms-3/0fbcd1760f1a492d2d7fc15420d41ef7/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:10:3-17:17
+MERGED from [com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:10:3-17:17
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] /Users/harika/.gradle/caches/transforms-3/47087407cafea504132f07c4617f559a/transformed/core-1.2.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:18:7-39
+	android:hardwareAccelerated
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:24:7-41
+	android:roundIcon
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:20:7-41
+	android:largeHeap
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:23:7-31
+	android:icon
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:19:7-39
+	android:allowBackup
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:21:7-34
+	android:theme
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:25:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:22:7-42
+	android:name
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:17:7-38
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:27:7-29:68
+	android:value
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:29:11-66
+	android:name
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:28:11-56
+activity#com.usd.SplashActivity
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:31:3-36:35
+	android:label
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:33:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:35:9-51
+	android:exported
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:36:9-32
+	android:configChanges
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:34:9-79
+	android:name
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:32:9-39
+activity#com.usd.MainActivity
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:37:7-62:18
+	android:label
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:39:9-41
+	android:launchMode
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:40:9-39
+	android:windowSoftInputMode
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:43:9-51
+	android:configChanges
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:41:9-86
+	android:name
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:38:9-37
+intent-filter#action:name:android.intent.action.DOWNLOAD_COMPLETE+action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:44:9-49:25
+action#android.intent.action.MAIN
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:45:13-65
+	android:name
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:45:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:46:13-73
+	android:name
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:46:23-70
+action#android.intent.action.DOWNLOAD_COMPLETE
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:47:13-77
+	android:name
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:47:21-75
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:usdfab.com+data:pathPrefix:/usd+data:scheme:https
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:51:9-60:23
+action#android.intent.action.VIEW
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:52:11-63
+	android:name
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:52:19-60
+category#android.intent.category.DEFAULT
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:53:11-70
+	android:name
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:53:21-67
+category#android.intent.category.BROWSABLE
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:54:11-72
+	android:name
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:54:21-69
+data
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:56:11-58:45
+	android:host
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:57:17-42
+	android:scheme
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:56:17-39
+	android:pathPrefix
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:58:17-42
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:63:7-84
+	android:name
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:63:17-81
+meta-data#com.dieam.reactnativepushnotification.notification_foreground
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:66:9-67:43
+	android:value
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:67:21-41
+	android:name
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:66:21-97
+meta-data#com.dieam.reactnativepushnotification.notification_color
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:69:9-70:54
+	android:resource
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:70:21-52
+	android:name
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:69:21-92
+meta-data#com.dieam.reactnativepushnotification.default_notification_channel_id
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:77:9-79:71
+	android:value
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:79:13-68
+	android:name
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:78:13-97
+receiver#com.dieam.reactnativepushnotification.modules.RNPushNotificationActions
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:81:9-108
+	android:name
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:81:19-105
+receiver#com.dieam.reactnativepushnotification.modules.RNPushNotificationPublisher
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:82:9-110
+	android:name
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:82:19-107
+receiver#com.dieam.reactnativepushnotification.modules.RNPushNotificationBootEventReceiver
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:83:9-89:20
+	android:name
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:83:19-115
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:84:13-88:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:85:17-79
+	android:name
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:85:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:86:17-82
+	android:name
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:86:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:87:17-81
+	android:name
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:87:25-79
+service#com.dieam.reactnativepushnotification.modules.RNPushNotificationListenerService
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:91:9-97:19
+	android:exported
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:93:13-37
+	android:name
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:92:13-107
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:94:13-96:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:95:17-78
+	android:name
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:95:25-75
+meta-data#com.google.firebase.messaging.default_notification_icon
+ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:99:9-101:48
+	android:resource
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:101:13-45
+	android:name
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml:100:13-83
+uses-sdk
+INJECTED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-razorpay] /Users/harika/Downloads/USD New Build/node_modules/react-native-razorpay/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-razorpay] /Users/harika/Downloads/USD New Build/node_modules/react-native-razorpay/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-push-notification] /Users/harika/Downloads/USD New Build/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-push-notification] /Users/harika/Downloads/USD New Build/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-async-storage_async-storage] /Users/harika/Downloads/USD New Build/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] /Users/harika/Downloads/USD New Build/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_checkbox] /Users/harika/Downloads/USD New Build/node_modules/@react-native-community/checkbox/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_checkbox] /Users/harika/Downloads/USD New Build/node_modules/@react-native-community/checkbox/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] /Users/harika/Downloads/USD New Build/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_datetimepicker] /Users/harika/Downloads/USD New Build/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_picker] /Users/harika/Downloads/USD New Build/node_modules/@react-native-community/picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_picker] /Users/harika/Downloads/USD New Build/node_modules/@react-native-community/picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_app] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_app] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:webileapps_rn-range-slider] /Users/harika/Downloads/USD New Build/node_modules/@webileapps/rn-range-slider/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:webileapps_rn-range-slider] /Users/harika/Downloads/USD New Build/node_modules/@webileapps/rn-range-slider/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-info] /Users/harika/Downloads/USD New Build/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-info] /Users/harika/Downloads/USD New Build/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fast-image] /Users/harika/Downloads/USD New Build/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fast-image] /Users/harika/Downloads/USD New Build/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-geolocation-service] /Users/harika/Downloads/USD New Build/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-geolocation-service] /Users/harika/Downloads/USD New Build/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/harika/Downloads/USD New Build/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/harika/Downloads/USD New Build/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-base64] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-base64/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-base64] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-base64/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-reanimated] /Users/harika/Downloads/USD New Build/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/harika/Downloads/USD New Build/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Users/harika/Downloads/USD New Build/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/harika/Downloads/USD New Build/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/harika/Downloads/USD New Build/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/harika/Downloads/USD New Build/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-share] /Users/harika/Downloads/USD New Build/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-share] /Users/harika/Downloads/USD New Build/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-splash-screen] /Users/harika/Downloads/USD New Build/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/harika/Downloads/USD New Build/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/harika/Downloads/USD New Build/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/harika/Downloads/USD New Build/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-version-check] /Users/harika/Downloads/USD New Build/node_modules/react-native-version-check/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-version-check] /Users/harika/Downloads/USD New Build/node_modules/react-native-version-check/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Users/harika/Downloads/USD New Build/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Users/harika/Downloads/USD New Build/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-fetch-blob] /Users/harika/Downloads/USD New Build/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-fetch-blob] /Users/harika/Downloads/USD New Build/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:sp-react-native-in-app-updates] /Users/harika/Downloads/USD New Build/node_modules/sp-react-native-in-app-updates/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:sp-react-native-in-app-updates] /Users/harika/Downloads/USD New Build/node_modules/sp-react-native-in-app-updates/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/harika/.gradle/caches/transforms-3/d4205a4a0fed5333590e211409133e58/transformed/jetified-react-native-0.63.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/harika/.gradle/caches/transforms-3/d4205a4a0fed5333590e211409133e58/transformed/jetified-react-native-0.63.4/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/harika/.gradle/caches/transforms-3/ea86021aaf9ba584039b5c3734e3c1ef/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/harika/.gradle/caches/transforms-3/ea86021aaf9ba584039b5c3734e3c1ef/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/harika/.gradle/caches/transforms-3/76ba3091827d01de8e7a2b6a36744fbe/transformed/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/harika/.gradle/caches/transforms-3/76ba3091827d01de8e7a2b6a36744fbe/transformed/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:20:5-44
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.24] /Users/harika/.gradle/caches/transforms-3/93fc55ae3fadb0df02c8bc1a8e52cf03/transformed/jetified-android-gif-drawable-1.2.24/AndroidManifest.xml:5:5-7:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.24] /Users/harika/.gradle/caches/transforms-3/93fc55ae3fadb0df02c8bc1a8e52cf03/transformed/jetified-android-gif-drawable-1.2.24/AndroidManifest.xml:5:5-7:41
+MERGED from [com.razorpay:checkout:1.6.6] /Users/harika/.gradle/caches/transforms-3/2f195106775cddb24a2a579e19518be3/transformed/jetified-checkout-1.6.6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.razorpay:checkout:1.6.6] /Users/harika/.gradle/caches/transforms-3/2f195106775cddb24a2a579e19518be3/transformed/jetified-checkout-1.6.6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth:19.2.0] /Users/harika/.gradle/caches/transforms-3/dc929b827540638b7ff9457c9b149a4e/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:19.2.0] /Users/harika/.gradle/caches/transforms-3/dc929b827540638b7ff9457c9b149a4e/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/harika/.gradle/caches/transforms-3/ba82fbe20035156ff1046e1b4377dbfe/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/harika/.gradle/caches/transforms-3/ba82fbe20035156ff1046e1b4377dbfe/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/harika/.gradle/caches/transforms-3/94801b6ca85e415ce2dbcbe73be0cc36/transformed/jetified-play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/harika/.gradle/caches/transforms-3/94801b6ca85e415ce2dbcbe73be0cc36/transformed/jetified-play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.1.0] /Users/harika/.gradle/caches/transforms-3/fec03aea89e9f48f88a57ac1b419c0bd/transformed/jetified-play-services-auth-api-phone-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.1.0] /Users/harika/.gradle/caches/transforms-3/fec03aea89e9f48f88a57ac1b419c0bd/transformed/jetified-play-services-auth-api-phone-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/harika/.gradle/caches/transforms-3/bb439626774e06ed48cc8d482a94403d/transformed/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/harika/.gradle/caches/transforms-3/bb439626774e06ed48cc8d482a94403d/transformed/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/harika/.gradle/caches/transforms-3/e0a2c853b5c38da6906b6ae3dc868357/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/harika/.gradle/caches/transforms-3/e0a2c853b5c38da6906b6ae3dc868357/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] /Users/harika/.gradle/caches/transforms-3/922c2b2a5040975dbc8d2dac0d022bc1/transformed/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/harika/.gradle/caches/transforms-3/922c2b2a5040975dbc8d2dac0d022bc1/transformed/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/harika/Downloads/USD New Build/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/harika/Downloads/USD New Build/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/harika/.gradle/caches/transforms-3/e5fd145ea166936cfd6a9226e48a9316/transformed/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/harika/.gradle/caches/transforms-3/e5fd145ea166936cfd6a9226e48a9316/transformed/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/harika/.gradle/caches/transforms-3/0e759e4dfa23b957cd3311dda9619d21/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/harika/.gradle/caches/transforms-3/0e759e4dfa23b957cd3311dda9619d21/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/harika/.gradle/caches/transforms-3/e6efb0dd3b3d315d7d944d2e87afea48/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/harika/.gradle/caches/transforms-3/e6efb0dd3b3d315d7d944d2e87afea48/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] /Users/harika/.gradle/caches/transforms-3/ee0a4da2db4c1a62297e9263e77ec665/transformed/jetified-ucrop-2.2.6-native/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] /Users/harika/.gradle/caches/transforms-3/ee0a4da2db4c1a62297e9263e77ec665/transformed/jetified-ucrop-2.2.6-native/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/harika/.gradle/caches/transforms-3/9484c0b06a0d2b279e96093d883ef2b0/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/harika/.gradle/caches/transforms-3/9484c0b06a0d2b279e96093d883ef2b0/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/harika/.gradle/caches/transforms-3/a26da561de36f4b6e0fcb24e55d804ee/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/harika/.gradle/caches/transforms-3/a26da561de36f4b6e0fcb24e55d804ee/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/harika/.gradle/caches/transforms-3/ca843f462f4a3c0f10b645cdb78f6353/transformed/jetified-fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/harika/.gradle/caches/transforms-3/ca843f462f4a3c0f10b645cdb78f6353/transformed/jetified-fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/harika/.gradle/caches/transforms-3/7b4b5a7a22237d7cfbbfb6598fb5fe51/transformed/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/harika/.gradle/caches/transforms-3/7b4b5a7a22237d7cfbbfb6598fb5fe51/transformed/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/harika/.gradle/caches/transforms-3/8ebda44b8e0a5b628ca06f3207eaeec0/transformed/jetified-drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/harika/.gradle/caches/transforms-3/8ebda44b8e0a5b628ca06f3207eaeec0/transformed/jetified-drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/harika/.gradle/caches/transforms-3/d3b71ecbd7b8821c56c79910a2bae14e/transformed/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/harika/.gradle/caches/transforms-3/d3b71ecbd7b8821c56c79910a2bae14e/transformed/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/harika/.gradle/caches/transforms-3/58f694369be8c257aa4952499078c706/transformed/jetified-imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/harika/.gradle/caches/transforms-3/58f694369be8c257aa4952499078c706/transformed/jetified-imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/harika/.gradle/caches/transforms-3/8f12687ff8edceb6fd81c76f131dfc76/transformed/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/harika/.gradle/caches/transforms-3/8f12687ff8edceb6fd81c76f131dfc76/transformed/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/harika/.gradle/caches/transforms-3/761b235149bb829619debec5e366124b/transformed/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/harika/.gradle/caches/transforms-3/761b235149bb829619debec5e366124b/transformed/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/harika/.gradle/caches/transforms-3/c30f305d5914ca63ec5adf46dfefe693/transformed/jetified-soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/harika/.gradle/caches/transforms-3/c30f305d5914ca63ec5adf46dfefe693/transformed/jetified-soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/harika/.gradle/caches/transforms-3/75926d81c6edc234c9116dc3bdaaa247/transformed/jetified-okhttp3-integration-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/harika/.gradle/caches/transforms-3/75926d81c6edc234c9116dc3bdaaa247/transformed/jetified-okhttp3-integration-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/harika/.gradle/caches/transforms-3/02defe3da5325c070472a27692d77103/transformed/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/harika/.gradle/caches/transforms-3/02defe3da5325c070472a27692d77103/transformed/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/harika/.gradle/caches/transforms-3/52b3985fed3338b56995a81381e1d96a/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/harika/.gradle/caches/transforms-3/52b3985fed3338b56995a81381e1d96a/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/harika/.gradle/caches/transforms-3/e2be09db50561da7cb87118f450e77b8/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/harika/.gradle/caches/transforms-3/e2be09db50561da7cb87118f450e77b8/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/harika/.gradle/caches/transforms-3/75b5fbde74aa2f7bb23eade67ce6eb9a/transformed/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/harika/.gradle/caches/transforms-3/75b5fbde74aa2f7bb23eade67ce6eb9a/transformed/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/harika/.gradle/caches/transforms-3/905cde3f8590dda9ee9af3723085a8ea/transformed/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/harika/.gradle/caches/transforms-3/905cde3f8590dda9ee9af3723085a8ea/transformed/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/harika/.gradle/caches/transforms-3/86375cb8f64d7e305e1f9ce868c16b21/transformed/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/harika/.gradle/caches/transforms-3/86375cb8f64d7e305e1f9ce868c16b21/transformed/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/harika/.gradle/caches/transforms-3/dd91a403dd4f58dfe248a346cc340091/transformed/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/harika/.gradle/caches/transforms-3/dd91a403dd4f58dfe248a346cc340091/transformed/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/harika/.gradle/caches/transforms-3/62b8ad83e51716bcc80a61beadeb5d2f/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/harika/.gradle/caches/transforms-3/62b8ad83e51716bcc80a61beadeb5d2f/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/harika/.gradle/caches/transforms-3/ebfffc6b35b4e6ddb2e425ba09b76557/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/harika/.gradle/caches/transforms-3/ebfffc6b35b4e6ddb2e425ba09b76557/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/harika/.gradle/caches/transforms-3/7c72ce46cb44f7817d65809dbeeeecfe/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/harika/.gradle/caches/transforms-3/7c72ce46cb44f7817d65809dbeeeecfe/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /Users/harika/.gradle/caches/transforms-3/41d7b68253b3b836f15dc67b9b157ff5/transformed/jetified-firebase-installations-interop-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /Users/harika/.gradle/caches/transforms-3/41d7b68253b3b836f15dc67b9b157ff5/transformed/jetified-firebase-installations-interop-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/harika/.gradle/caches/transforms-3/ebb65a7e0fc4ff04fbb8ea4417d9a256/transformed/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/harika/.gradle/caches/transforms-3/ebb65a7e0fc4ff04fbb8ea4417d9a256/transformed/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/harika/.gradle/caches/transforms-3/268f9e402883c4ba45efede7f2db2908/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/harika/.gradle/caches/transforms-3/268f9e402883c4ba45efede7f2db2908/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/harika/.gradle/caches/transforms-3/cb1021d4975e2bf4d86bc89cbef88233/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/harika/.gradle/caches/transforms-3/cb1021d4975e2bf4d86bc89cbef88233/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/harika/.gradle/caches/transforms-3/b6a70aefed313c4be109003326632969/transformed/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/harika/.gradle/caches/transforms-3/b6a70aefed313c4be109003326632969/transformed/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/harika/.gradle/caches/transforms-3/d1ec7887906d76c8a94fb45e15b2df10/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/harika/.gradle/caches/transforms-3/d1ec7887906d76c8a94fb45e15b2df10/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/harika/.gradle/caches/transforms-3/1543e52fb4e56d2c46fb00ae21fa6110/transformed/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/harika/.gradle/caches/transforms-3/1543e52fb4e56d2c46fb00ae21fa6110/transformed/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/harika/.gradle/caches/transforms-3/7a49ceea2e04ced7362bbf2226e0aecf/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/harika/.gradle/caches/transforms-3/7a49ceea2e04ced7362bbf2226e0aecf/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/harika/.gradle/caches/transforms-3/d4cf66bec8241ee84c2c5cfb50963a0f/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/harika/.gradle/caches/transforms-3/d4cf66bec8241ee84c2c5cfb50963a0f/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/harika/.gradle/caches/transforms-3/bbd5b1f9974939faa126496c589a1003/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/harika/.gradle/caches/transforms-3/bbd5b1f9974939faa126496c589a1003/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/harika/.gradle/caches/transforms-3/4d67303336a3e1b543cab5e61d63a071/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/harika/.gradle/caches/transforms-3/4d67303336a3e1b543cab5e61d63a071/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/harika/.gradle/caches/transforms-3/e1feb82a386b52287a7b9f9cc26ece5c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/harika/.gradle/caches/transforms-3/e1feb82a386b52287a7b9f9cc26ece5c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/harika/.gradle/caches/transforms-3/305eb8e75c846650dd59fde7a0145566/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/harika/.gradle/caches/transforms-3/305eb8e75c846650dd59fde7a0145566/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] /Users/harika/.gradle/caches/transforms-3/60cc38a733c4ee44b70e708dc6dfbc6f/transformed/exifinterface-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] /Users/harika/.gradle/caches/transforms-3/60cc38a733c4ee44b70e708dc6dfbc6f/transformed/exifinterface-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/harika/.gradle/caches/transforms-3/43c714152abf8b04f16a517508460a49/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/harika/.gradle/caches/transforms-3/43c714152abf8b04f16a517508460a49/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/harika/.gradle/caches/transforms-3/e32d3ab01a668199a2d53621253ff6cf/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/harika/.gradle/caches/transforms-3/e32d3ab01a668199a2d53621253ff6cf/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/harika/.gradle/caches/transforms-3/47366bff95f402eae7434c7060fb225f/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/harika/.gradle/caches/transforms-3/47366bff95f402eae7434c7060fb225f/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/harika/.gradle/caches/transforms-3/b3af6ff1ce525a3a1b7de632766218e0/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/harika/.gradle/caches/transforms-3/b3af6ff1ce525a3a1b7de632766218e0/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/harika/.gradle/caches/transforms-3/0b3280691d21ca8ff0943bc567271d11/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/harika/.gradle/caches/transforms-3/0b3280691d21ca8ff0943bc567271d11/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/harika/.gradle/caches/transforms-3/389835c806b2d73221c4dd52d48053a5/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/harika/.gradle/caches/transforms-3/389835c806b2d73221c4dd52d48053a5/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/harika/.gradle/caches/transforms-3/e338ed7884e646a0288468a6a0cf83a1/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/harika/.gradle/caches/transforms-3/e338ed7884e646a0288468a6a0cf83a1/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/harika/.gradle/caches/transforms-3/e868470f2cbc433939bbe7c2f7300e56/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/harika/.gradle/caches/transforms-3/e868470f2cbc433939bbe7c2f7300e56/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] /Users/harika/.gradle/caches/transforms-3/47087407cafea504132f07c4617f559a/transformed/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /Users/harika/.gradle/caches/transforms-3/47087407cafea504132f07c4617f559a/transformed/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/harika/.gradle/caches/transforms-3/f9c94f993f5cfd49b2b8090b64670d4b/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/harika/.gradle/caches/transforms-3/f9c94f993f5cfd49b2b8090b64670d4b/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/harika/.gradle/caches/transforms-3/42b79ced1aa2f16a2a86c6ed0e80d2c1/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/harika/.gradle/caches/transforms-3/42b79ced1aa2f16a2a86c6ed0e80d2c1/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/harika/.gradle/caches/transforms-3/418aa0b51a6f4ba4184f8d4d152a8f13/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/harika/.gradle/caches/transforms-3/418aa0b51a6f4ba4184f8d4d152a8f13/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/harika/.gradle/caches/transforms-3/c54e61693a5695dedaa5976cf519f039/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/harika/.gradle/caches/transforms-3/c54e61693a5695dedaa5976cf519f039/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/harika/.gradle/caches/transforms-3/9e7b735e592713da9b6c85bd28b1dfdb/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/harika/.gradle/caches/transforms-3/9e7b735e592713da9b6c85bd28b1dfdb/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/harika/.gradle/caches/transforms-3/3644d5ed46f1a7356f3171f57526431a/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/harika/.gradle/caches/transforms-3/3644d5ed46f1a7356f3171f57526431a/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/harika/.gradle/caches/transforms-3/c9dc0262ccff14d6b49a66d589c8dc66/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/harika/.gradle/caches/transforms-3/c9dc0262ccff14d6b49a66d589c8dc66/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/harika/.gradle/caches/transforms-3/76bf5ed7b380c75d8e64bbac6832260c/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/harika/.gradle/caches/transforms-3/76bf5ed7b380c75d8e64bbac6832260c/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/harika/.gradle/caches/transforms-3/036190e4fb8d038524a4de65648f865c/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/harika/.gradle/caches/transforms-3/036190e4fb8d038524a4de65648f865c/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/harika/.gradle/caches/transforms-3/9760b30f98a7bb18c28540dda65edd68/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/harika/.gradle/caches/transforms-3/9760b30f98a7bb18c28540dda65edd68/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/harika/.gradle/caches/transforms-3/9452d1a6925946f81422249123a1f33b/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/harika/.gradle/caches/transforms-3/9452d1a6925946f81422249123a1f33b/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/harika/.gradle/caches/transforms-3/b967118513f9811bdf59bf902ff420b4/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/harika/.gradle/caches/transforms-3/b967118513f9811bdf59bf902ff420b4/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.relinker:relinker:1.4.1] /Users/harika/.gradle/caches/transforms-3/0bad285a995ba148844b1a8f0098b8be/transformed/jetified-relinker-1.4.1/AndroidManifest.xml:5:5-43
+MERGED from [pl.droidsonroids.relinker:relinker:1.4.1] /Users/harika/.gradle/caches/transforms-3/0bad285a995ba148844b1a8f0098b8be/transformed/jetified-relinker-1.4.1/AndroidManifest.xml:5:5-43
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/harika/.gradle/caches/transforms-3/0fbcd1760f1a492d2d7fc15420d41ef7/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/harika/.gradle/caches/transforms-3/0fbcd1760f1a492d2d7fc15420d41ef7/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:4:3-70
+MERGED from [com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:4:3-70
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/harika/.gradle/caches/transforms-3/7eb5bb0819ae1b5b9997642be36da21e/transformed/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/harika/.gradle/caches/transforms-3/7eb5bb0819ae1b5b9997642be36da21e/transformed/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/harika/Downloads/USD New Build/android/app/src/main/AndroidManifest.xml
+activity#com.razorpay.CheckoutActivity
+ADDED from [:react-native-razorpay] /Users/harika/Downloads/USD New Build/node_modules/react-native-razorpay/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:9-14:86
+MERGED from [com.razorpay:checkout:1.6.6] /Users/harika/.gradle/caches/transforms-3/2f195106775cddb24a2a579e19518be3/transformed/jetified-checkout-1.6.6/AndroidManifest.xml:18:9-29:20
+MERGED from [com.razorpay:checkout:1.6.6] /Users/harika/.gradle/caches/transforms-3/2f195106775cddb24a2a579e19518be3/transformed/jetified-checkout-1.6.6/AndroidManifest.xml:18:9-29:20
+	android:configChanges
+		ADDED from [:react-native-razorpay] /Users/harika/Downloads/USD New Build/node_modules/react-native-razorpay/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-83
+	android:theme
+		ADDED from [com.razorpay:checkout:1.6.6] /Users/harika/.gradle/caches/transforms-3/2f195106775cddb24a2a579e19518be3/transformed/jetified-checkout-1.6.6/AndroidManifest.xml:21:13-49
+	android:name
+		ADDED from [:react-native-razorpay] /Users/harika/Downloads/USD New Build/node_modules/react-native-razorpay/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:13-57
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-68
+MERGED from [:rn-fetch-blob] /Users/harika/Downloads/USD New Build/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:21:5-68
+MERGED from [:rn-fetch-blob] /Users/harika/Downloads/USD New Build/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:21:5-68
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:23:5-68
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:23:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/harika/.gradle/caches/transforms-3/86375cb8f64d7e305e1f9ce868c16b21/transformed/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/harika/.gradle/caches/transforms-3/86375cb8f64d7e305e1f9ce868c16b21/transformed/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-79
+MERGED from [:rn-fetch-blob] /Users/harika/Downloads/USD New Build/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:27:5-79
+MERGED from [:rn-fetch-blob] /Users/harika/Downloads/USD New Build/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:27:5-79
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/harika/.gradle/caches/transforms-3/0e759e4dfa23b957cd3311dda9619d21/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/harika/.gradle/caches/transforms-3/0e759e4dfa23b957cd3311dda9619d21/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/harika/.gradle/caches/transforms-3/e6efb0dd3b3d315d7d944d2e87afea48/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/harika/.gradle/caches/transforms-3/e6efb0dd3b3d315d7d944d2e87afea48/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/harika/.gradle/caches/transforms-3/52b3985fed3338b56995a81381e1d96a/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/harika/.gradle/caches/transforms-3/52b3985fed3338b56995a81381e1d96a/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/harika/.gradle/caches/transforms-3/86375cb8f64d7e305e1f9ce868c16b21/transformed/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/harika/.gradle/caches/transforms-3/86375cb8f64d7e305e1f9ce868c16b21/transformed/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:22-76
+service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService
+ADDED from [:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:9-111
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:18-108
+service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService
+ADDED from [:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:9-23:19
+	android:exported
+		ADDED from [:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:13-95
+receiver#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingReceiver
+ADDED from [:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:25:9-32:20
+	android:exported
+		ADDED from [:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:28:13-73
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:26:13-96
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:29:13-31:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:30:17-81
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:30:25-78
+meta-data#firebase_messaging_auto_init_enabled
+ADDED from [:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:34:9-36:36
+	android:value
+		ADDED from [:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:36:13-33
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:35:13-64
+meta-data#com.google.firebase.messaging.default_notification_channel_id
+ADDED from [:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:37:9-39:32
+	android:value
+		ADDED from [:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:39:13-29
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:38:13-89
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from [:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:40:9-42:47
+	android:resource
+		ADDED from [:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:42:13-44
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/harika/Downloads/USD New Build/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:41:13-84
+queries
+ADDED from [:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-14:15
+intent
+ADDED from [:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:9-13:18
+action#android.media.action.IMAGE_CAPTURE
+ADDED from [:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:13-73
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:21-70
+provider#androidx.core.content.FileProvider
+ADDED from [:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:9-27:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:23:13-47
+	android:authorities
+		ADDED from [:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:21:13-60
+	android:exported
+		ADDED from [:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:20:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:24:13-26:58
+	android:resource
+		ADDED from [:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:26:17-55
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:25:17-67
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:29:9-31:72
+	android:theme
+		ADDED from [:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:31:13-69
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/harika/Downloads/USD New Build/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:30:13-60
+provider#cl.json.RNShareFileProvider
+ADDED from [:react-native-share] /Users/harika/Downloads/USD New Build/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-share] /Users/harika/Downloads/USD New Build/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-share] /Users/harika/Downloads/USD New Build/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [:react-native-share] /Users/harika/Downloads/USD New Build/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-share] /Users/harika/Downloads/USD New Build/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:13-55
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] /Users/harika/Downloads/USD New Build/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] /Users/harika/Downloads/USD New Build/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] /Users/harika/Downloads/USD New Build/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] /Users/harika/Downloads/USD New Build/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] /Users/harika/Downloads/USD New Build/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:13-83
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from [:rn-fetch-blob] /Users/harika/Downloads/USD New Build/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-73
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/harika/Downloads/USD New Build/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:22-70
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:rn-fetch-blob] /Users/harika/Downloads/USD New Build/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/harika/Downloads/USD New Build/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:30:22-73
+provider#com.RNFetchBlob.Utils.FileProvider
+ADDED from [:rn-fetch-blob] /Users/harika/Downloads/USD New Build/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:36:9-44:20
+	android:grantUriPermissions
+		ADDED from [:rn-fetch-blob] /Users/harika/Downloads/USD New Build/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:40:13-47
+	android:authorities
+		ADDED from [:rn-fetch-blob] /Users/harika/Downloads/USD New Build/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:38:13-60
+	android:exported
+		ADDED from [:rn-fetch-blob] /Users/harika/Downloads/USD New Build/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/harika/Downloads/USD New Build/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:37:13-62
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:25:5-82
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/harika/.gradle/caches/transforms-3/ba82fbe20035156ff1046e1b4377dbfe/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/harika/.gradle/caches/transforms-3/ba82fbe20035156ff1046e1b4377dbfe/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/harika/.gradle/caches/transforms-3/86375cb8f64d7e305e1f9ce868c16b21/transformed/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/harika/.gradle/caches/transforms-3/86375cb8f64d7e305e1f9ce868c16b21/transformed/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:25:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:28:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:31:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:29:13-78
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:41:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:44:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:43:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:42:13-82
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:49:9-55:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/harika/.gradle/caches/transforms-3/e5fd145ea166936cfd6a9226e48a9316/transformed/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/harika/.gradle/caches/transforms-3/e5fd145ea166936cfd6a9226e48a9316/transformed/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/harika/.gradle/caches/transforms-3/52b3985fed3338b56995a81381e1d96a/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/harika/.gradle/caches/transforms-3/52b3985fed3338b56995a81381e1d96a/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/harika/.gradle/caches/transforms-3/e2be09db50561da7cb87118f450e77b8/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/harika/.gradle/caches/transforms-3/e2be09db50561da7cb87118f450e77b8/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:51:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/harika/.gradle/caches/transforms-3/e2be09db50561da7cb87118f450e77b8/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/harika/.gradle/caches/transforms-3/e2be09db50561da7cb87118f450e77b8/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:50:13-84
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:52:13-54:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:54:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/harika/.gradle/caches/transforms-3/b051f792682a57cb713922b11da9df06/transformed/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:53:17-119
+receiver#com.razorpay.RzpTokenReceiver
+ADDED from [com.razorpay:checkout:1.6.6] /Users/harika/.gradle/caches/transforms-3/2f195106775cddb24a2a579e19518be3/transformed/jetified-checkout-1.6.6/AndroidManifest.xml:12:9-16:20
+	android:name
+		ADDED from [com.razorpay:checkout:1.6.6] /Users/harika/.gradle/caches/transforms-3/2f195106775cddb24a2a579e19518be3/transformed/jetified-checkout-1.6.6/AndroidManifest.xml:12:19-63
+intent-filter#action:name:rzp.device_token.share
+ADDED from [com.razorpay:checkout:1.6.6] /Users/harika/.gradle/caches/transforms-3/2f195106775cddb24a2a579e19518be3/transformed/jetified-checkout-1.6.6/AndroidManifest.xml:13:13-15:29
+action#rzp.device_token.share
+ADDED from [com.razorpay:checkout:1.6.6] /Users/harika/.gradle/caches/transforms-3/2f195106775cddb24a2a579e19518be3/transformed/jetified-checkout-1.6.6/AndroidManifest.xml:14:17-65
+	android:name
+		ADDED from [com.razorpay:checkout:1.6.6] /Users/harika/.gradle/caches/transforms-3/2f195106775cddb24a2a579e19518be3/transformed/jetified-checkout-1.6.6/AndroidManifest.xml:14:25-62
+intent-filter#action:name:android.intent.action.MAIN+data:host:rzp.io+data:scheme:io.rzp
+ADDED from [com.razorpay:checkout:1.6.6] /Users/harika/.gradle/caches/transforms-3/2f195106775cddb24a2a579e19518be3/transformed/jetified-checkout-1.6.6/AndroidManifest.xml:22:13-28:29
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:19.2.0] /Users/harika/.gradle/caches/transforms-3/dc929b827540638b7ff9457c9b149a4e/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /Users/harika/.gradle/caches/transforms-3/dc929b827540638b7ff9457c9b149a4e/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /Users/harika/.gradle/caches/transforms-3/dc929b827540638b7ff9457c9b149a4e/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /Users/harika/.gradle/caches/transforms-3/dc929b827540638b7ff9457c9b149a4e/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /Users/harika/.gradle/caches/transforms-3/dc929b827540638b7ff9457c9b149a4e/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:19.2.0] /Users/harika/.gradle/caches/transforms-3/dc929b827540638b7ff9457c9b149a4e/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /Users/harika/.gradle/caches/transforms-3/dc929b827540638b7ff9457c9b149a4e/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /Users/harika/.gradle/caches/transforms-3/dc929b827540638b7ff9457c9b149a4e/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /Users/harika/.gradle/caches/transforms-3/dc929b827540638b7ff9457c9b149a4e/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /Users/harika/.gradle/caches/transforms-3/dc929b827540638b7ff9457c9b149a4e/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.5.0] /Users/harika/.gradle/caches/transforms-3/e0a2c853b5c38da6906b6ae3dc868357/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /Users/harika/.gradle/caches/transforms-3/e0a2c853b5c38da6906b6ae3dc868357/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /Users/harika/.gradle/caches/transforms-3/e0a2c853b5c38da6906b6ae3dc868357/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /Users/harika/.gradle/caches/transforms-3/e0a2c853b5c38da6906b6ae3dc868357/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/harika/.gradle/caches/transforms-3/e5fd145ea166936cfd6a9226e48a9316/transformed/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/harika/.gradle/caches/transforms-3/e5fd145ea166936cfd6a9226e48a9316/transformed/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/harika/.gradle/caches/transforms-3/e5fd145ea166936cfd6a9226e48a9316/transformed/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:29:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/harika/.gradle/caches/transforms-3/0e759e4dfa23b957cd3311dda9619d21/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/harika/.gradle/caches/transforms-3/e6efb0dd3b3d315d7d944d2e87afea48/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/harika/.gradle/caches/transforms-3/e6efb0dd3b3d315d7d944d2e87afea48/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/harika/.gradle/caches/transforms-3/0e759e4dfa23b957cd3311dda9619d21/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/harika/.gradle/caches/transforms-3/0e759e4dfa23b957cd3311dda9619d21/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/harika/.gradle/caches/transforms-3/0e759e4dfa23b957cd3311dda9619d21/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/harika/.gradle/caches/transforms-3/0e759e4dfa23b957cd3311dda9619d21/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/harika/.gradle/caches/transforms-3/0e759e4dfa23b957cd3311dda9619d21/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/harika/.gradle/caches/transforms-3/e6efb0dd3b3d315d7d944d2e87afea48/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/harika/.gradle/caches/transforms-3/e6efb0dd3b3d315d7d944d2e87afea48/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/harika/.gradle/caches/transforms-3/e6efb0dd3b3d315d7d944d2e87afea48/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/harika/.gradle/caches/transforms-3/e6efb0dd3b3d315d7d944d2e87afea48/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/harika/.gradle/caches/transforms-3/e6efb0dd3b3d315d7d944d2e87afea48/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/harika/.gradle/caches/transforms-3/e6efb0dd3b3d315d7d944d2e87afea48/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/harika/.gradle/caches/transforms-3/e6efb0dd3b3d315d7d944d2e87afea48/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:33:13-132
+meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
+ADDED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/harika/.gradle/caches/transforms-3/75926d81c6edc234c9116dc3bdaaa247/transformed/jetified-okhttp3-integration-4.11.0/AndroidManifest.xml:11:9-13:43
+	android:value
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/harika/.gradle/caches/transforms-3/75926d81c6edc234c9116dc3bdaaa247/transformed/jetified-okhttp3-integration-4.11.0/AndroidManifest.xml:13:13-40
+	android:name
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/harika/.gradle/caches/transforms-3/75926d81c6edc234c9116dc3bdaaa247/transformed/jetified-okhttp3-integration-4.11.0/AndroidManifest.xml:12:13-84
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.0] /Users/harika/.gradle/caches/transforms-3/52b3985fed3338b56995a81381e1d96a/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] /Users/harika/.gradle/caches/transforms-3/52b3985fed3338b56995a81381e1d96a/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] /Users/harika/.gradle/caches/transforms-3/52b3985fed3338b56995a81381e1d96a/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/harika/.gradle/caches/transforms-3/e2be09db50561da7cb87118f450e77b8/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/harika/.gradle/caches/transforms-3/e2be09db50561da7cb87118f450e77b8/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/harika/.gradle/caches/transforms-3/e2be09db50561da7cb87118f450e77b8/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/harika/.gradle/caches/transforms-3/e2be09db50561da7cb87118f450e77b8/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/harika/.gradle/caches/transforms-3/e2be09db50561da7cb87118f450e77b8/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/harika/.gradle/caches/transforms-3/e2be09db50561da7cb87118f450e77b8/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.5.0] /Users/harika/.gradle/caches/transforms-3/268f9e402883c4ba45efede7f2db2908/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] /Users/harika/.gradle/caches/transforms-3/268f9e402883c4ba45efede7f2db2908/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] /Users/harika/.gradle/caches/transforms-3/268f9e402883c4ba45efede7f2db2908/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:24:13-58
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:39:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:45:5-82
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:45:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:46:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:46:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:49:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:49:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:50:5-89
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/harika/.gradle/caches/transforms-3/1a85023f7bd7d93e4b56aa6b48a11830/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:50:22-86
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.android.installreferrer:installreferrer:1.1.2] /Users/harika/.gradle/caches/transforms-3/0fbcd1760f1a492d2d7fc15420d41ef7/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.android.installreferrer:installreferrer:1.1.2] /Users/harika/.gradle/caches/transforms-3/0fbcd1760f1a492d2d7fc15420d41ef7/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:9:22-107
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:8:3-74
+	android:name
+		ADDED from [com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:8:20-72
+activity#com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity
+ADDED from [com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:12:5-271
+	android:process
+		ADDED from [com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:12:152-203
+	android:enabled
+		ADDED from [com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:12:103-126
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:12:240-269
+	android:launchMode
+		ADDED from [com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:12:204-239
+	android:exported
+		ADDED from [com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:12:127-151
+	android:name
+		ADDED from [com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:12:15-102
+activity#com.google.android.play.core.common.PlayCoreDialogWrapperActivity
+ADDED from [com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:13:5-278
+	android:process
+		ADDED from [com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:13:175-226
+	android:enabled
+		ADDED from [com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:13:96-119
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:13:145-174
+	android:exported
+		ADDED from [com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:13:120-144
+	android:theme
+		ADDED from [com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:13:227-276
+	android:name
+		ADDED from [com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:13:15-95
+service#com.google.android.play.core.assetpacks.AssetPackExtractionService
+ADDED from [com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:16:5-145
+	android:enabled
+		ADDED from [com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:16:96-119
+	android:exported
+		ADDED from [com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:16:120-143
+	android:name
+		ADDED from [com.google.android.play:core:1.7.1] /Users/harika/.gradle/caches/transforms-3/695b2af47e405547931f1098492f8738/transformed/jetified-core-1.7.1/AndroidManifest.xml:16:14-95
