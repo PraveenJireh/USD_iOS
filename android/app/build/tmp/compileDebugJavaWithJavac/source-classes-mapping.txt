@@ -1,0 +1,16 @@
+com/usd/ReactNativeFlipper.java
+ com.usd.ReactNativeFlipper
+ com.usd.ReactNativeFlipper$1
+ com.usd.ReactNativeFlipper$2
+ com.usd.ReactNativeFlipper$2$1
+com/usd/SplashActivity.java
+ com.usd.SplashActivity
+com/usd/BuildConfig.java
+ com.usd.BuildConfig
+com/usd/MainActivity.java
+ com.usd.MainActivity
+com/usd/MainApplication.java
+ com.usd.MainApplication
+ com.usd.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
